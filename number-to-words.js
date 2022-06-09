@@ -73,6 +73,6 @@ const numberToWords = (n) => {
 
   return "Too Much";
 };
-const n = 1113;
+const n = 75;
 // Twenet one
 console.log(numberToWords(n));

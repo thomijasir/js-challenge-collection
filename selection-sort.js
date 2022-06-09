@@ -1,5 +1,6 @@
 const sampleList = [4, 8, 2, 1];
 const sampleListB = [5, 4, 1, 2, 3, 6, 10, 9, 8, 7];
+
 const selectionShort = (list) => {
   const maxNum = 99999;
   const sortedList = [];
